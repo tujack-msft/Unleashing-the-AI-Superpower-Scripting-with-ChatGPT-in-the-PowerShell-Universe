@@ -1,0 +1,85 @@
+2024-03-10 08:00:57: An error occurred for user 'jsmith': Directory object not found
+2024-03-10 08:00:57: An error occurred for user 'mjones': Directory object not found
+2024-03-10 08:00:57: An error occurred for user 'rjohnson': Directory object not found
+2024-03-10 08:00:57: An error occurred for user 'kwilliams': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'taylor': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'dbrown': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'cmiller': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'hmartinez': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'llopez': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'ggonzalez': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'wwilson': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'janderson': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'tthomas': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'hhall': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'mmoore': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'jackson': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'aallen': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'sscott': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'kking': Directory object not found
+2024-03-10 08:00:58: An error occurred for user 'rrodriguez': Directory object not found
+2024-03-10 08:05:55: Group 'Salesusers' created.
+2024-03-10 08:05:55: An error occurred for user 'jsmith': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: Group 'Marketingusers' created.
+2024-03-10 08:05:55: An error occurred for user 'mjones': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: Group 'ITusers' created.
+2024-03-10 08:05:55: An error occurred for user 'rjohnson': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: Group 'HRusers' created.
+2024-03-10 08:05:55: An error occurred for user 'kwilliams': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: Group 'Financeusers' created.
+2024-03-10 08:05:55: An error occurred for user 'taylor': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'dbrown': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'cmiller': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'hmartinez': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'llopez': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'ggonzalez': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'wwilson': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'janderson': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'tthomas': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'hhall': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'mmoore': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'jackson': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'aallen': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'sscott': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'kking': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:05:55: An error occurred for user 'rrodriguez': The password does not meet the length, complexity, or history requirement of the domain.
+2024-03-10 08:17:46: User 'jsmith' added to group 'Salesusers'.
+2024-03-10 08:17:46: User 'mjones' added to group 'Marketingusers'.
+2024-03-10 08:17:46: User 'rjohnson' added to group 'ITusers'.
+2024-03-10 08:17:46: User 'kwilliams' added to group 'HRusers'.
+2024-03-10 08:17:46: User 'taylor' added to group 'Financeusers'.
+2024-03-10 08:17:46: User 'dbrown' added to group 'Salesusers'.
+2024-03-10 08:17:46: User 'cmiller' added to group 'Marketingusers'.
+2024-03-10 08:17:46: User 'hmartinez' added to group 'ITusers'.
+2024-03-10 08:17:46: User 'llopez' added to group 'HRusers'.
+2024-03-10 08:17:46: User 'ggonzalez' added to group 'Financeusers'.
+2024-03-10 08:17:46: User 'wwilson' added to group 'Salesusers'.
+2024-03-10 08:17:47: User 'janderson' added to group 'Marketingusers'.
+2024-03-10 08:17:47: User 'tthomas' added to group 'ITusers'.
+2024-03-10 08:17:47: User 'hhall' added to group 'HRusers'.
+2024-03-10 08:17:47: User 'mmoore' added to group 'Financeusers'.
+2024-03-10 08:17:47: User 'jackson' added to group 'Salesusers'.
+2024-03-10 08:17:47: User 'aallen' added to group 'Marketingusers'.
+2024-03-10 08:17:47: User 'sscott' added to group 'ITusers'.
+2024-03-10 08:17:47: User 'kking' added to group 'HRusers'.
+2024-03-10 08:17:47: User 'rrodriguez' added to group 'Financeusers'.
+2024-03-10 08:24:29: User 'jsmith' added to group 'Salesusers'.
+2024-03-10 08:24:29: User 'mjones' added to group 'Marketingusers'.
+2024-03-10 08:24:29: User 'rjohnson' added to group 'ITusers'.
+2024-03-10 08:24:29: User 'kwilliams' added to group 'HRusers'.
+2024-03-10 08:24:29: User 'taylor' added to group 'Financeusers'.
+2024-03-10 08:24:29: User 'dbrown' added to group 'Salesusers'.
+2024-03-10 08:24:29: User 'cmiller' added to group 'Marketingusers'.
+2024-03-10 08:24:29: User 'hmartinez' added to group 'ITusers'.
+2024-03-10 08:24:29: User 'llopez' added to group 'HRusers'.
+2024-03-10 08:24:29: User 'ggonzalez' added to group 'Financeusers'.
+2024-03-10 08:24:29: User 'wwilson' added to group 'Salesusers'.
+2024-03-10 08:24:29: User 'janderson' added to group 'Marketingusers'.
+2024-03-10 08:24:29: User 'tthomas' added to group 'ITusers'.
+2024-03-10 08:24:29: User 'hhall' added to group 'HRusers'.
+2024-03-10 08:24:29: User 'mmoore' added to group 'Financeusers'.
+2024-03-10 08:24:29: User 'jackson' added to group 'Salesusers'.
+2024-03-10 08:24:29: User 'aallen' added to group 'Marketingusers'.
+2024-03-10 08:24:29: User 'sscott' added to group 'ITusers'.
+2024-03-10 08:24:29: User 'kking' added to group 'HRusers'.
+2024-03-10 08:24:29: User 'rrodriguez' added to group 'Financeusers'.
